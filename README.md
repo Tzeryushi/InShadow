@@ -1,2 +1,5 @@
 # InShadow
- A short game and engine I made back in college.
+
+In Shadow is a puzzle game made using a custom built engine with SDL in C++.
+
+Download the game here: https://tzeryushi.itch.io/in-shadow
